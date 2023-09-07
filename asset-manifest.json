@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/dervaish/static/css/main.d1d1cfa5.css",
-    "main.js": "/dervaish/static/js/main.aa970113.js",
-    "static/js/787.629755ba.chunk.js": "/dervaish/static/js/787.629755ba.chunk.js",
-    "static/media/logo.svg": "/dervaish/static/media/logo.417754215272014e4c8568636a96586a.svg",
-    "index.html": "/dervaish/index.html",
-    "main.d1d1cfa5.css.map": "/dervaish/static/css/main.d1d1cfa5.css.map",
-    "main.aa970113.js.map": "/dervaish/static/js/main.aa970113.js.map",
-    "787.629755ba.chunk.js.map": "/dervaish/static/js/787.629755ba.chunk.js.map"
+    "main.css": "/static/css/main.d1d1cfa5.css",
+    "main.js": "/static/js/main.90c0952d.js",
+    "static/js/787.629755ba.chunk.js": "/static/js/787.629755ba.chunk.js",
+    "static/media/logo.svg": "/static/media/logo.417754215272014e4c8568636a96586a.svg",
+    "index.html": "/index.html",
+    "main.d1d1cfa5.css.map": "/static/css/main.d1d1cfa5.css.map",
+    "main.90c0952d.js.map": "/static/js/main.90c0952d.js.map",
+    "787.629755ba.chunk.js.map": "/static/js/787.629755ba.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d1d1cfa5.css",
-    "static/js/main.aa970113.js"
+    "static/js/main.90c0952d.js"
   ]
 }
