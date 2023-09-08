@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import ReactPlayer from 'react-player';
+import ReactPlayer from 'react-player/file';
 import axios from 'axios'; // Import Axios
 
 import './MediaPlayer.css';
