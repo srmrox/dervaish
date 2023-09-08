@@ -44,7 +44,7 @@ const MediaPlayer = () => {
       </div>
       {selectedMedia && (
         <div className="media-player">
-          <ReactPlayer url={selectedMedia} controls />
+          <ReactPlayer url={selectedMedia} controls playing />
         </div>
       )}
     </div>
