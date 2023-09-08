@@ -1,5 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
+import React from 'react'
+import MediaPlayer from './components/MediaPlayer';
 
 function App() {
   return (
@@ -17,6 +19,9 @@ function App() {
         <p>
           Insights in Faith
         </p>
+        <div>
+          <MediaPlayer></MediaPlayer>
+        </div>
       </header>
     </div>
   );
