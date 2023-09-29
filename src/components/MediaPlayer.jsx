@@ -5,7 +5,7 @@ import axios from 'axios'; // Import Axios
 import './MediaPlayer.css';
 
 const GITHUB_REPO_OWNER = 'srmrox'; // Replace with the GitHub repository owner's username
-const GITHUB_REPO_NAME = 'dervaish'; // Replace with the GitHub repository name
+const GITHUB_REPO_NAME = 'dervaish-media'; // Replace with the GitHub repository name
 const GITHUB_API_BASE_URL = 'https://api.github.com';
 
 const MediaPlayer = () => {
