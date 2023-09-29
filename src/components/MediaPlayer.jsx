@@ -15,7 +15,7 @@ const MediaPlayer = () => {
   useEffect(() => {
     // Fetch the list of media files from the public GitHub repository
     axios
-      .get(`${GITHUB_API_BASE_URL}/repos/${GITHUB_REPO_OWNER}/${GITHUB_REPO_NAME}/contents/media`)
+      .get(`${GITHUB_API_BASE_URL}/repos/${GITHUB_REPO_OWNER}/${GITHUB_REPO_NAME}/contents/`)
       .then((response) => {
         const files = response.data.filter((file) => file.type === 'file');
         const fileUrls = files.map((file) => file.download_url);
