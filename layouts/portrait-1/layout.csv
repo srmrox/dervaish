@@ -1,0 +1,32 @@
+﻿type,name,folder,img_file,x,y,width,height,font,color,size,r,g,b,a
+layout_name,portrait-1,,,,,,,,,,,,,
+layout_type,portrait,,,,,1080,1920,,,,,,,
+image,underglow,layout,underglow.png,34,377,1013,270,,,,,,,
+image,logo,layout,logo.png,380,26,320,416,,,,,,,
+image,web,layout,web.png,264,1741,50,50,,,,,,,
+image,youtube,layout,youtube.png,150,1808,50,50,,,,,,,
+image,facebook,layout,facebook.png,210,1808,50,50,,,,,,,
+image,twitter,layout,twitter.png,270,1808,50,50,,,,,,,
+image,discord,layout,discord.png,330,1808,50,50,,,,,,,
+image,twitch,layout,twitch.png,390,1808,50,50,,,,,,,
+image,tiktok,layout,tiktok.png,450,1808,50,50,,,,,,,
+image,threads,layout,threads.png,510,1808,50,50,,,,,,,
+text,https://dervaish.com,,,322,1746,494,50,Calibri,white,50,,,,
+text,/DervaishDotCom,,,565,1813,365,50,Calibri,white,50,,,,
+rectangle,rec_info,,,108,428,864,422,,,,255,255,255,255
+rectangle,rec_lyrics,,,108,878,864,266,,,,255,255,255,255
+rectangle,rec_lang1,,,108,1171,864,266,,,,0,0,0,255
+rectangle,rec_lang2,,,108,1464,864,266,,,,0,0,0,255
+image,img_voice,audio,image.jpg,149,470,269,343,,,,,,,
+text,Title,,,459,475,472,,Source-Code-Pro-Bold,#333333,24,,,,
+text,var_title,,,459,509,472,,Calibri-Bold,black,32,,,,
+text,Voice of,,,459,630,472,,Source-Code-Pro-Bold,#333333,24,,,,
+text,var_voice,,,459,664,472,,Calibri,black,32,,,,
+text,Written by,,,459,738,472,,Source-Code-Pro-Bold,#333333,24,,,,
+text,var_writer,,,459,772,472,,Calibri,black,32,,,,
+text,lbl_lyrics,,,149,914,782,,Source-Code-Pro-Bold,#333333,24,,,,
+lyrics,var_lyrics,,,149,955,782,,Calibri,black,32,,,,
+text,lbl_lang1,,,149,1210,782,,Source-Code-Pro-Bold,#cccccc,24,,,,
+lyrics,var_lang1,,,149,1252,782,,Calibri,white,32,,,,
+text,lbl_lang2,,,149,1502,782,,Source-Code-Pro-Bold,#cccccc,24,,,,
+lyrics,var_lang2,,,149,1544,782,,Calibri,white,32,,,,
